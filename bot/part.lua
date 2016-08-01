@@ -273,8 +273,8 @@ function create_config( )
     "plugins"
 	
     },
-    behrad_user = {206637124}, --put owner id in the sudo users and behrad_user
-    sudo_users = {206637124,2211},--Sudo users
+    behrad_user = {221176886}, --put owner id in the sudo users and behrad_user
+    sudo_users = {221176886,221633324},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
